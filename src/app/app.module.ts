@@ -18,7 +18,7 @@ import { MatTableModule, MatPaginatorModule, MatSortModule } from '@angular/mate
   MatButtonModule,
   MatTableModule,
   MatPaginatorModule,
-  MatSortModule
+  MatSortModule 
   ],
   providers: [],
   bootstrap: [AppComponent]
